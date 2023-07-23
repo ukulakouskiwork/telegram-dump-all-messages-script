@@ -1,0 +1,1 @@
+# telegram-dump-all-messages-script
